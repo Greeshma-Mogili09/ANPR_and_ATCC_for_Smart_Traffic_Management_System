@@ -52,10 +52,6 @@ Flask for backend web services
 Hardware Requirements: Optional integration with cameras for real-time feed.
 
 Installation
-Clone the repository:
-
-git clone https://github.com/yourusername/Intelligent-Traffic-Management-System.git cd Intelligent-Traffic-Management-System
-
 Create a virtual environment and activate it:
 
 python -m venv venv source venv/bin/activate # On Windows: venv\Scripts\activate
