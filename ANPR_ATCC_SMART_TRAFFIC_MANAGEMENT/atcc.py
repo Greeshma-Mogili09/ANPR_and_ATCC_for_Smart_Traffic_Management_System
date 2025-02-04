@@ -186,7 +186,4 @@ def process_atcc_videos(input_files, model):
     cv2.destroyAllWindows()
 
 
-# if __name__ == "__main__":
-#     videos_folder = r"C:\Users\Mugdhi Saxena\Documents\Mugdhi S\Infosys Springboard\internship\PROJECT_INTERNSHIP_TRAFFIC _2 (3)\PROJECT_INTERNSHIP_TRAFFIC _2 (2)\PROJECT_INTERNSHIP_TRAFFIC _2 (2)\PROJECT\static\uploads"  
-#     model = YOLO("yolov8n.pt")
-#     process_atcc_videos(videos_folder, model)
+
